@@ -1,0 +1,1202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Philadelphia, or, Brotherly love to the studious in the hermetick art. Wherein is discovered the principles of hermetick philosophy, with much candor and plainness. / Written by Eyreneus Philoctetes.</title>
+            <author>Philoctetes, Eyreneus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 67 KB of XML-encoded text transcribed from 52 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90641</idno>
+            <idno type="STC">Wing P1982A</idno>
+            <idno type="STC">ESTC R204402</idno>
+            <idno type="EEBO-CITATION">43246663</idno>
+            <idno type="OCLC">ocm 43246663</idno>
+            <idno type="VID">151643</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90641)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151643)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2269:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Philadelphia, or, Brotherly love to the studious in the hermetick art. Wherein is discovered the principles of hermetick philosophy, with much candor and plainness. / Written by Eyreneus Philoctetes.</title>
+                  <author>Philoctetes, Eyreneus.</author>
+                  <author>Starkey, George, d. 1666.</author>
+               </titleStmt>
+               <extent>[32], 70 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Sowle at the Crooked Billet in Holy-well-lane in Shoreditch,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Sometimes attributed to George Starkey.</note>
+                  <note>"To the studious reader" signed: Philomathes; "To his respected and worthy friend" signed: Philetæros; at end of text signed: Eyrenaeus Philoctetes, written in the year 1691.</note>
+                  <note>Reproduction of original in: Christ Church Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Alchemy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151643:1"/>
+            <pb facs="tcp:151643:1" rendition="simple:additions"/>
+            <p>PHILADELPHIA, OR BROTHERLY LOVE To the STUDIOUS In the HERMETICK
+ART.</p>
+            <p>Wherein is diſcovered the Prin<g ref="char:EOLhyphen"/>ciples of HERMETICK PHI<g ref="char:EOLhyphen"/>LOSOPHY,
+with much Candor and Plainneſs.</p>
+            <p>Written by <hi>Eyreneus Philoctetes</hi>
+            </p>
+            <q>
+               <p>And God ſaid let the Earth bring forth graſs; the herb
+yielding Seed, and the Fruit tree yielding fruit after its kind whoſe ſeed
+is in it ſelf upon the Earth: and it was ſo,</p>
+               <bibl>
+                  <hi>GEN, 1 11.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>If thou doſt deſire to exalt a thing beyond what nature hath
+done, conſider well in what, and by what it is bettered, and let it always be
+done in its own kind,</p>
+               <bibl>
+                  <hi>Sendivo.</hi> Trea. <hi>1.</hi>
+               </bibl>
+            </q>
+            <p>Printed and ſold by <hi>T. Sowle</hi> at the <hi>Crooked
+Billet</hi> in <hi>Holy-well-lane</hi> in <hi>Shoreditch.</hi> 1694.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:151643:2"/>
+            <pb facs="tcp:151643:2" rendition="simple:additions"/>
+            <head>To the STUDIOUS READER.</head>
+            <p>IN making the follow<g ref="char:EOLhyphen"/>ing <hi>Tract</hi> and <hi>Letter</hi> in
+which it was enclo<g ref="char:EOLhyphen"/>ſed, that precedes it, <hi>thine, thy</hi> Obligation to
+<hi>me</hi> will bear ſome proporti<g ref="char:EOLhyphen"/>on with <hi>mine</hi> to my
+<hi>Friend</hi> that <hi>communicated</hi> them;
+<pb facs="tcp:151643:3"/>neither art thou <hi>excu<g ref="char:EOLhyphen"/>ſable</hi> without a degree
+of <hi>acknowledgement</hi> to <hi>him</hi> al<g ref="char:EOLhyphen"/>ſo: for, doubtleſs, next to
+the <hi>Authors</hi> of ſuch <hi>Tracts,</hi> our Obligations are
+<hi>greateſt</hi> to the <hi>Publi<g ref="char:EOLhyphen"/>ſhers</hi> and <hi>Communicators.</hi>
+For indeed there have not been <hi>wanting</hi> ſome <hi>ignoble</hi> minds,
+<hi>who,</hi> when ſuch <hi>Tracts</hi> have fallen into their
+<hi>Hands,</hi> have <hi>preſumed</hi> to Cenſure the <hi>world</hi> not
+worthy the ſame, <hi>contrary</hi> to the <hi>ſence</hi> and
+<hi>intent</hi> of the <hi>Authors,</hi>
+               <pb facs="tcp:151643:3"/>and by this <hi>means</hi> have <hi>confined</hi> their
+<hi>Love</hi> and <hi>Candour,</hi> as much as in them lay, to <hi>their</hi>
+own <hi>private</hi> Cloſets: <hi>Who</hi> not<g ref="char:EOLhyphen"/>withſtanding are <hi>not
+wanting</hi> to <hi>accuſe</hi> the <hi>Phi<g ref="char:EOLhyphen"/>loſophers</hi> of
+<hi>Envy,</hi> in con<g ref="char:EOLhyphen"/>cealing the <hi>Matter</hi> and <hi>Means</hi> of the
+<hi>Art,</hi> whilſt <hi>they</hi> manifeſt their <hi>own</hi> to the
+Studious in <hi>that</hi> which is <hi>leſs.</hi> I can't reflect on the
+<hi>Complaint</hi> of a <hi>Modern</hi> and <hi>Candid</hi> Author, without an
+<hi>In<g ref="char:EOLhyphen"/>dignation</hi> to the <hi>Practice,</hi>
+               <pb facs="tcp:151643:4"/>who after he had writ<g ref="char:EOLhyphen"/>ten an <hi>Enchyridion</hi> of
+Ex<g ref="char:EOLhyphen"/>periments, <hi>together</hi> with a <hi>Diurnal</hi> of Meditations,
+<hi>wherein</hi> were many <hi>Phi<g ref="char:EOLhyphen"/>loſophical</hi> Rece<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts <hi>declaring</hi>
+the whole <hi>Secret,</hi> &amp;c. It fell into ſuch hands <hi>he
+conceived</hi> would never <hi>re<g ref="char:EOLhyphen"/>ſtore it.</hi> No leſs happen<g ref="char:EOLhyphen"/>ned to the
+Comment on Sir <hi>George Ripleys Laſt Six Gates.</hi> This <hi>very
+unwor<g ref="char:EOLhyphen"/>thy</hi> a generous mind, and <hi>very</hi> prejudicial to the Studious,
+as well as <hi>Diſ<g ref="char:EOLhyphen"/>couraging</hi> to the <hi>Authors.
+<pb facs="tcp:151643:4"/>Let</hi> therefore ſuch poſ<g ref="char:EOLhyphen"/>ſeſs
+<hi>Ignorance</hi> with their <hi>envy;</hi> want of Ability with their
+<hi>Ingratitude;</hi> whilſt the <hi>Generous, grate<g ref="char:EOLhyphen"/>ful</hi> and
+<hi>abhorrers</hi> of ſuch Practices, <hi>enjoy</hi> the Bene<g ref="char:EOLhyphen"/>fit, and
+<hi>Reap</hi> the Advan<g ref="char:EOLhyphen"/>tage of ſuch Candor and Help <hi>even</hi> to the
+attain<g ref="char:EOLhyphen"/>ment of their <hi>hearts</hi> deſire.</p>
+            <p>For me to ſay any thing of the <hi>Author</hi> of
+<hi>Philadelphia,</hi> would be a <hi>Preſumption,</hi> ſince <hi>he</hi>
+has choſen <hi>ſecreſie:</hi> Nor of the <hi>Tract</hi> it ſelf ſince
+
+<pb facs="tcp:151643:5"/>(thou maiſt think) it <hi>ſurmounts</hi> my
+underſtan<g ref="char:EOLhyphen"/>ding; therefore I pre<g ref="char:EOLhyphen"/>fer <hi>its ſelf</hi> to any thing of
+<hi>mine</hi> to proclaim its <hi>Au<g ref="char:EOLhyphen"/>thors</hi> praiſe as well as
+<hi>Ability</hi> and <hi>Candor:</hi> know<g ref="char:EOLhyphen"/>ing it is too common for
+<hi>Publiſhers</hi> to preſume to <hi>Comment</hi> on that they
+underſtand not; by which the Readers are <hi>abuſed,</hi> and their own
+<hi>Ignorance</hi> and <hi>ambition</hi> diſ<g ref="char:EOLhyphen"/>covered; if not to
+<hi>every</hi> Reader, yet to <hi>many,</hi> and to every <hi>Maſter</hi> at
+leaſt.</p>
+            <pb facs="tcp:151643:5"/>
+            <p>For my Part, <hi>Rather</hi> then ſpend <hi>time</hi> and
+<hi>Pa<g ref="char:EOLhyphen"/>per</hi> to no more purpoſe either to my <hi>ſelf</hi> or
+<hi>Rea<g ref="char:EOLhyphen"/>der</hi> in ſuch <hi>Commentations,</hi> I ſhould think it
+<hi>better</hi> Spent in Humility to Addreſs the <hi>Sages</hi> of our
+<hi>Time,</hi> that <hi>they themſelves</hi> would be pleaſed to
+<hi>Illu<g ref="char:EOLhyphen"/>ſtrate</hi> the obſcure part of <hi>Medical Practice</hi> to the
+young and Laborious <hi>Students</hi> in the <hi>Phyſical.</hi> Art. No doubt
+but ſome <hi>ſuch</hi> there <hi>are</hi> whom Na<g ref="char:EOLhyphen"/>ture has
+<hi>bleſſed</hi> with a
+<pb facs="tcp:151643:6"/>
+               <hi>cracking</hi> of the Shell, through <hi>great</hi>
+Labour and Study, tho Striplings, to <hi>whom</hi> a helping hand <hi>would
+prove acceptable,</hi> which might conduct them by the <hi>neareſt</hi> way
+to the <hi>Cen<g ref="char:EOLhyphen"/>ter.</hi> Who would it <hi>ſerve,</hi> and <hi>what</hi> would
+it <hi>merit?</hi> If the <hi>production</hi> of their <hi>Red Lead,</hi> and
+<hi>Reductio<g ref="char:EOLhyphen"/>on</hi> into Potability were <hi>fa<g ref="char:EOLhyphen"/>miliarly</hi> taught, tho the
+<hi>firſt water,</hi> and its <hi>Preparation</hi> were <hi>wholly
+concealed.</hi> Would not the ſick be hel<g ref="char:EOLhyphen"/>ped, and the happy attain<g ref="char:EOLhyphen"/>er
+<pb facs="tcp:151643:6"/>of the <hi>firſt water</hi> be made early
+<hi>ſerviceable.</hi>
+            </p>
+            <p>Alſo the Diſcovery of the <hi>peculiar Operation</hi> that is
+partly <hi>Mechanical</hi> on the univerſal <hi>Mercury,</hi> would
+<hi>make</hi> the poſſeſſor <hi>capable</hi> of ſpending his
+<hi>time</hi> and <hi>Matter</hi> to a more early ad<g ref="char:EOLhyphen"/>vantage, and further
+ſtep in <hi>Practice;</hi> Few arriving <hi>here</hi> without a ſufficient
+ſhare of the loſs of <hi>both</hi> to Entitle them to ſuch a de<g ref="char:EOLhyphen"/>gree of
+<hi>help:</hi> Theſe <hi>toge<g ref="char:EOLhyphen"/>ther</hi> with the <hi>Arbor vitae,</hi> or
+permiſſible Oyle, <hi>&amp;c.</hi> be<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:151643:7"/>the <hi>Joy</hi> and <hi>Reward</hi> of every
+<hi>A<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eptiſt,</hi> and deſire of the <hi>leaſt</hi> attainer.</p>
+            <p>No leſs profitable to the attainer of <hi>Principles,</hi> would
+the <hi>Practice</hi> of that highly ſerviceable, and much deſired
+<hi>Liquor</hi> by the Phyſical and Sedulous Stu<g ref="char:EOLhyphen"/>dents, which Crown'd
+<hi>Pa<g ref="char:EOLhyphen"/>racelſus,</hi> and gave Honour to <hi>Helmont</hi> in the
+<hi>Cure</hi> of <hi>Diſeaſes,</hi> whoſe Practice is aſſerted, and
+no doubt truly, by a knowing <hi>Ma<g ref="char:EOLhyphen"/>ſter,</hi> to be a hundred times more
+<hi>difficult</hi> then the <hi>E<g ref="char:EOLhyphen"/>lixir</hi> it ſelf.</p>
+            <pb facs="tcp:151643:7"/>
+            <p>What Reader, If I ſhew thee my Opinion <hi>wherein?</hi> not as
+one <hi>Knowing,</hi> but DESIROUS TO LEARN, and with ſub<g ref="char:EOLhyphen"/>miſſion to
+<hi>Correction,</hi> if my conception be <hi>Wrong.</hi> The <hi>Elixir</hi> is
+produced <hi>Natu<g ref="char:EOLhyphen"/>rally;</hi> and by Natural Prin<g ref="char:EOLhyphen"/>ciples; therefore the
+Dif<g ref="char:EOLhyphen"/>ficulty ſeems to be in the attainment of Principles (rather than
+Practice) which are <hi>artificial</hi> to find.</p>
+            <p>But the <hi>Alkaheſt</hi> is pro<g ref="char:EOLhyphen"/>duced <hi>Artificially</hi> or
+Me<g ref="char:EOLhyphen"/>chanically from Natural
+<pb facs="tcp:151643:8"/>Principles; and <hi>Art</hi> being more
+<hi>intricate</hi> than <hi>Nature</hi> (for <hi>"ſhe is true, plain,
+pati<g ref="char:EOLhyphen"/>ent, conſtant,</hi> &amp;c.) and the <hi>Artist</hi> more
+<hi>inconſtant, im<g ref="char:EOLhyphen"/>patient</hi> and conſequently <hi>irregular,</hi> muſt
+neceſſarily be <hi>more ſubject</hi> to err, and conſequently the
+<hi>more</hi> dif<g ref="char:EOLhyphen"/>ficult to <hi>Effect. Art</hi> in all Natural Productions,
+tho abſolutely neceſſary for <hi>help, muſt</hi> go Natures
+<hi>pace</hi> and <hi>way,</hi> or elſe more <hi>inju<g ref="char:EOLhyphen"/>rious</hi> then
+<hi>helpful,</hi> but in <hi>Artificials a greater</hi> Lati<g ref="char:EOLhyphen"/>tude is given to
+the <hi>Artiſts</hi>
+               <pb facs="tcp:151643:8"/>to <hi>vary</hi> many ways as ſeems <hi>moſt</hi>
+proper to eve<g ref="char:EOLhyphen"/>ry ones Cogitations.</p>
+            <p>An <hi>Example</hi> we may find in <hi>this; Art</hi> in its
+<hi>help</hi> to <hi>Nature</hi> in the <hi>production</hi> of an <hi>Herb,
+Tree,</hi> or <hi>Flow<g ref="char:EOLhyphen"/>er,</hi> is <hi>obliged</hi> to Natures <hi>pace</hi>
+and <hi>way,</hi> without <hi>lay<g ref="char:EOLhyphen"/>ing on of hands,</hi> only pre<g ref="char:EOLhyphen"/>venting
+<hi>accidents</hi> and <hi>ex<g ref="char:EOLhyphen"/>treams</hi> of <hi>Heat</hi> and <hi>Cold;</hi>
+but <hi>Art</hi> in the <hi>Mannual</hi> or <hi>Mechanical</hi> ſeparation,
+and union of the Natural Prin<g ref="char:EOLhyphen"/>ciples, <hi>viz. Spirit, Oyle,</hi> and
+<hi>Salt</hi> (which indeed are in
+<pb facs="tcp:151643:9"/>a <hi>true ſence</hi> all one, but
+<hi>di<g ref="char:EOLhyphen"/>verſiſied</hi> by Art, for the more <hi>Spirit</hi> the leſs
+<hi>Oyle</hi> and <hi>Salt</hi> (yea they <hi>both</hi> may be made
+<hi>Spirit</hi> too) ſo al<g ref="char:EOLhyphen"/>ſo the more <hi>Oyle</hi> the leſs
+<hi>Spirit</hi> and <hi>Salt,</hi> and the more <hi>Salt</hi> the leſs
+<hi>Spirit</hi> or <hi>Oyle;</hi> for indeed they are convertable) of that
+<hi>Herb</hi> or <hi>Flower</hi> is certainly left to a Wide Field of
+<hi>Practice</hi> and <hi>ſeeming</hi> Probabilities whereby the Artiſt is
+<hi>abun<g ref="char:EOLhyphen"/>dantly</hi> more lyable to err. In ſhort I can find <hi>many</hi>
+ar<g ref="char:EOLhyphen"/>tificial <hi>ways</hi> to deſtroy a
+<pb facs="tcp:151643:9"/>
+               <hi>Natural</hi> Life, but, but <hi>one way</hi> to
+manifeſt or Main<g ref="char:EOLhyphen"/>tain it: Which is accor<g ref="char:EOLhyphen"/>ding to <hi>Natures own</hi>
+Proce<g ref="char:EOLhyphen"/>dure: No other.</p>
+            <p>Thus <hi>Reader</hi> accept my <hi>love,</hi> both in ſhewing my
+<hi>Opinion</hi> and <hi>ſoliciting help</hi> for the <hi>ſtudious.</hi>
+And leaſt the <hi>first</hi> ſhould be charge<g ref="char:EOLhyphen"/>able with <hi>folly,</hi> and
+the <hi>laſt</hi> with <hi>boldneſs,</hi> by thoſe I <hi>ſo much</hi>
+value, I take leave to <hi>conceal</hi> my <hi>Name,</hi> that by <hi>that
+means</hi> their dipleaſure may fall more general on the <hi>studious,</hi>
+for <hi>whoſe</hi> ſake
+<pb facs="tcp:151643:10"/>I make the attempt. <hi>Who</hi> am a real admirer of
+<hi>Di<g ref="char:EOLhyphen"/>vine</hi> and <hi>Natural</hi> Verity, a lover of <hi>God,</hi> my
+<hi>Neigh<g ref="char:EOLhyphen"/>bour</hi> and <hi>Enemy.</hi>
+            </p>
+            <p>
+               <hi>Philomathes.</hi>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:151643:10"/>
+            <head>TO HIS Reſpected and Worthy FRIEND,</head>
+            <p>THy <hi>early</hi> Love to <hi>Hermetick Philo<g ref="char:EOLhyphen"/>ſophy,
+ſincere</hi> Reſpects to the <hi>Maſters</hi> of it, and <hi>long</hi>
+perſeverance in the <hi>Study</hi> were ſufficient motives to Communicate
+what might fall into my hands that was <hi>rare</hi> and <hi>valuable,</hi> tho
+the
+<pb facs="tcp:151643:11"/>Obligations of Friendſhip were <hi>leſs</hi>
+numerous.</p>
+            <p>The Encloſed <hi>Manu<g ref="char:EOLhyphen"/>ſcript</hi> I have had by me for ſome
+time, but for ſome Rea<g ref="char:EOLhyphen"/>ſons could not communicate it ſo ſoon as my
+<hi>reſpects</hi> to thy <hi>ſelf</hi> and <hi>it,</hi> would have
+<hi>prompt</hi> me. I have not ſeen, nor heard of many Copies, therefore for
+its <hi>No<g ref="char:EOLhyphen"/>velty</hi> may <hi>preſume,</hi> and for its <hi>worth</hi>
+ſpeak what I <hi>think,</hi> That it is a <hi>com<g ref="char:EOLhyphen"/>pendious</hi> and
+<hi>plain</hi> Theo<g ref="char:EOLhyphen"/>ry of the <hi>Principles</hi> of <hi>Na<g ref="char:EOLhyphen"/>ture</hi> in
+general, and of <hi>Her<g ref="char:EOLhyphen"/>metick
+<pb facs="tcp:151643:11"/>Practice</hi> in parti<g ref="char:EOLhyphen"/>cular: Not
+<hi>Phantaſtically</hi> talked of, but <hi>fundamen<g ref="char:EOLhyphen"/>tally</hi> evinced from
+the <hi>ne<g ref="char:EOLhyphen"/>ceſſity</hi> thereof, and Autho<g ref="char:EOLhyphen"/>rity of the Ancient
+<hi>Philoſo<g ref="char:EOLhyphen"/>phers:</hi> Fully manifeſting the impoſſibility of the
+contra<g ref="char:EOLhyphen"/>ry through the <hi>uniformity</hi> and <hi>Regularity</hi> of Natures
+Actions in the Production of the <hi>ſeveral Species</hi> of Na<g ref="char:EOLhyphen"/>tural and
+perfect Bodies.</p>
+            <p>For the <hi>Author</hi> I ſhall nor <hi>preſume</hi> to give
+any <hi>judgement</hi> ſince he is plea<g ref="char:EOLhyphen"/>ſed to <hi>conceal</hi> his
+<hi>Name</hi>
+               <pb facs="tcp:151643:12"/>and <hi>Circumſtances,</hi> &amp; there by lye
+<hi>obſcure</hi> (the pra<g ref="char:EOLhyphen"/>ctice of Hermetick Writers) But <hi>this</hi> we
+may learn, that his <hi>Candor</hi> and <hi>Brotherly Love</hi> to the
+<hi>Studious</hi> and <hi>Religious</hi> ſtile, Entitles him to
+<hi>Chriſtianity</hi> as well as his <hi>Matter</hi> and <hi>Method</hi> doth
+to <hi>Knowledge</hi> and <hi>Practice</hi> in the School of <hi>Hermes</hi>
+and <hi>Nature;</hi> whether he be <hi>old</hi> or <hi>young, Native</hi> or
+<hi>Stran<g ref="char:EOLhyphen"/>ger.</hi> And ſince <hi>he</hi> has been <hi>thus</hi> ſolicitous
+and even <hi>ſtu<g ref="char:EOLhyphen"/>dious</hi> to prevent Errors in all, and to <hi>direct</hi>
+the feet of
+<pb facs="tcp:151643:12"/>the <hi>worthy</hi> in the way of <hi>Truth, we</hi>
+muſt reaſonably <hi>believe</hi> he hath taken the <hi>beſt</hi> method
+to <hi>effect</hi> it, which is to <hi>inculcate</hi> the <hi>know<g ref="char:EOLhyphen"/>ledge</hi>
+of <hi>true</hi> Principles and <hi>poſſibility</hi> of Nature. And indeed
+I have <hi>long</hi> concei<g ref="char:EOLhyphen"/>ved the <hi>Multitude</hi> of Errors in
+<hi>Practice,</hi> that have hap<g ref="char:EOLhyphen"/>pened to the ſearchers of Art, <hi>has</hi>
+been moſt owing to the <hi>Ignorance</hi> in <hi>Principles,</hi> and the
+<hi>want</hi> of a <hi>Previous</hi> understanding in the <hi>Law</hi> of
+<hi>Nature.</hi>
+            </p>
+            <p>
+               <hi>Nature</hi> no doubt, has a
+<pb facs="tcp:151643:13"/>
+               <hi>Law</hi> ſhe <hi>cannot</hi> tranſgreſs, let
+<hi>us</hi> therefore ſtudy to <hi>know that,</hi> and <hi>we</hi> ſhall
+not at<g ref="char:EOLhyphen"/>tempt it neither; <hi>Art</hi> or <hi>Ac<g ref="char:EOLhyphen"/>cidents</hi> may fruſtrate
+her <hi>end</hi> and cauſe Abortion, but neither carry her <hi>to</hi> or
+<hi>be<g ref="char:EOLhyphen"/>yond</hi> her uſual <hi>Perfection,</hi> but in her <hi>own</hi>
+way.</p>
+            <p>This ſmall <hi>Tract,</hi> worthy <hi>Friend,</hi> Conciſely
+teaches what <hi>the Fire</hi> and <hi>water,</hi> or <hi>Agent</hi> and
+<hi>Patient,</hi> that are <hi>active</hi> or <hi>living</hi> are; <hi>how</hi>
+they are ſaid to be <hi>living; what</hi> their <hi>life;</hi> and how
+un<g ref="char:EOLhyphen"/>derſtood: and indeed the <hi>Na<g ref="char:EOLhyphen"/>ture</hi>
+               <pb facs="tcp:151643:13"/>and <hi>Reaſon</hi> of the <hi>Hermetick Art very
+much</hi> Illuſtrated thereby.</p>
+            <p>Neither is it <hi>barren</hi> of ſo much Divinity, and ſome
+<hi>pe<g ref="char:EOLhyphen"/>culiar</hi> Hints, (that may af<g ref="char:EOLhyphen"/>ford <hi>pleaſure and profit</hi> to
+one ſo intent thereon) as be<g ref="char:EOLhyphen"/>comes ſo deep <hi>Philoſophy;</hi> which
+doubtleſs is the ſhadow of Divinity, or <hi>Younger</hi> Sister.</p>
+            <p>And indeed I could wiſh the contemplation of <hi>Gods Works</hi>
+in <hi>Nature</hi> were <hi>leſs</hi> omitted by the <hi>Chriſtian</hi>
+pro<g ref="char:EOLhyphen"/>feſſors of our <hi>Age,</hi> and the
+<pb facs="tcp:151643:14"/>
+               <hi>Lucre</hi> of <hi>Gain</hi> more; <hi>ſeing</hi>
+it tends to the <hi>honour</hi> of <hi>God, good</hi> of our
+<hi>Neigh<g ref="char:EOLhyphen"/>bour,</hi> and <hi>ſatisfaction</hi> of our <hi>ſelves</hi> every
+way, <hi>except</hi> our ſatisfaction be in <hi>much Riches</hi> and
+<hi>Honour, pur<g ref="char:EOLhyphen"/>chaſed</hi> with our <hi>moſt pre<g ref="char:EOLhyphen"/>cious time,</hi> and
+<hi>poſſeſſed</hi> with <hi>Ignorance</hi> and <hi>Folly;</hi> which is
+<hi>very ſhort</hi> of the <hi>Nobility</hi> of our <hi>Intulect</hi> and
+<hi>end</hi> of <hi>Creation;</hi> and for <hi>which</hi> we muſt
+<hi>ſurely</hi> give an Account.</p>
+            <p>Is not the Chriſtian <hi>ena<g ref="char:EOLhyphen"/>bled</hi> to aſcribe the
+<hi>Attri<g ref="char:EOLhyphen"/>butes</hi>
+               <pb facs="tcp:151643:14"/>of <hi>Wiſdom</hi> and <hi>Pow<g ref="char:EOLhyphen"/>er</hi> to
+<hi>God,</hi> in the <hi>Conſide<g ref="char:EOLhyphen"/>ration</hi> and <hi>Contemplation</hi> of
+the <hi>Number</hi> and <hi>Mag<g ref="char:EOLhyphen"/>nitude, Order</hi> and <hi>Beauty</hi> of the
+Works of <hi>Creation,</hi> as <hi>he</hi> is thoſe of his
+<hi>goodneſs</hi> and <hi>Mercy,</hi> which is over all <hi>his Works,</hi>
+in manifeſting the <hi>ſame word</hi> by which they were <hi>made,</hi> to
+<hi>redeem</hi> and <hi>reſtore</hi> them; the <hi>laſt</hi> abſolutely
+neceſſary, the <hi>firſt</hi> altogether <hi>becoming</hi> and
+<hi>adorning</hi> a <hi>virtuous</hi> and <hi>pious</hi> mind, and
+<hi>Chriſtian</hi> Profeſſion.</p>
+            <pb facs="tcp:151643:15"/>
+            <p>Doubtleſs the <hi>Natural</hi> and <hi>Mechanick</hi> knowledge
+acquired by <hi>Solomon,</hi> no way <hi>unfitted</hi> but <hi>qualified</hi>
+him for a <hi>Divine: Who</hi> when he had erected that <hi>glorious</hi>
+Edifice, and <hi>beautified</hi> it with the <hi>choiceſt</hi> Products of
+<hi>Nature</hi> and <hi>Art,</hi> as a <hi>Naturaliſt</hi> and
+<hi>Mecha<g ref="char:EOLhyphen"/>nick,</hi> Dedicated the ſame in great <hi>wiſdom</hi> as a
+<hi>Divine.</hi> We have Reaſon to <hi>believe</hi> the <hi>Pſalmiſt</hi>
+no leſs filled with the conſideration of the <hi>Attributes</hi> that are
+<hi>Ma<g ref="char:EOLhyphen"/>nifeſt</hi> in the Creation, which
+<pb facs="tcp:151643:15"/>even compelled him to cele<g ref="char:EOLhyphen"/>brate the <hi>ſame</hi>
+almoſt con<g ref="char:EOLhyphen"/>tinually. And indeed nothing <hi>leſs</hi> is to be thought than
+that <hi>a mind</hi> thus poſſeſſed with admiration ſhould
+<hi>con<g ref="char:EOLhyphen"/>tinually fear ſo great, love</hi> ſo <hi>good,</hi> and
+<hi>adore</hi> ſo <hi>glorious</hi> a Being, <hi>incom<g ref="char:EOLhyphen"/>prehenſible
+Power</hi> and <hi>Majeſty: Neither</hi> has indeed the <hi>Holy
+Apoſtles</hi> and followers of <hi>Chriſt</hi> fallen <hi>ſhort</hi> but
+rather <hi>excelled</hi> in this. And truly, <hi>reſpected Friend,</hi> the
+Characters of <hi>Nature</hi> are <hi>preferable</hi> to
+<pb facs="tcp:151643:16"/>thoſe of <hi>Men,</hi> ſince they are
+<hi>Gods,</hi> and <hi>ſuch</hi> our <hi>Lord</hi> himſelf <hi>choſe</hi>
+to ſhew forth the greateſt Myſteries by. Therefore if ignorant of them
+how ſhall we underſtand his <hi>Sermons</hi> and <hi>Doctrine</hi> aright.
+<hi>Much</hi> might be ſaid, but in as much, <hi>worthy Friend,</hi> there is
+no need of Arguments to <hi>covince,</hi> tho <hi>this</hi> may
+<hi>incourage</hi> one ſo fully ſatisfied of its <hi>Utility,
+innocency</hi> and <hi>profit,</hi> to proſecute the ſame with dili<g ref="char:EOLhyphen"/>gence
+&amp; <hi>Judgement,</hi> and to prefer <hi>it</hi> to the <hi>Mean</hi> and
+<pb facs="tcp:151643:16"/>
+               <hi>unbecoming</hi> practices of our <hi>Age,</hi>
+that <hi>ſolicite</hi> nothing but <hi>Gain</hi> or <hi>Greatneſs,</hi> and
+<hi>miſerably</hi> live in this world without the <hi>knowledge</hi> of
+<hi>Gods greatneſs</hi> and <hi>Wiſ<g ref="char:EOLhyphen"/>dom, love</hi> and <hi>Mercy,</hi> made
+manifeſt in <hi>his Creation</hi> and <hi>its Redemption.</hi>
+            </p>
+            <p>But leaſt I ſhould <hi>Tranſ<g ref="char:EOLhyphen"/>greſs</hi> my intended
+Limits, and detain <hi>too</hi> long from the <hi>Incloſed,</hi> I ſhall
+refer what might otherwiſe have been <hi>here</hi> offered in Relation to the
+Secret <hi>Art</hi> of <hi>Hermes,</hi> to another Opportunity <hi>more</hi>
+               <pb facs="tcp:151643:17"/>convenient, and in the mean while continue to deſire
+thy <hi>Proſperity</hi> and <hi>happineſs</hi> every way, as I have
+hither<g ref="char:EOLhyphen"/>to done <hi>who</hi> am thy Friend in <hi>Sincerity</hi> and
+<hi>Affection.</hi>
+            </p>
+            <closer>
+               <signed>PHILETAEROS.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:151643:17" rendition="simple:additions"/>
+            <head>Philadelphia, OR BROTHERLY LOVE To the <hi>Studious in the
+Hermetick</hi> ART.</head>
+            <p>IT is real matter of Lamen<g ref="char:EOLhyphen"/>tation to ſee ſo many preſ<g ref="char:EOLhyphen"/>ſing
+after Knowledge, and ſo few taking the right Path; or making a true
+Eſtimation thereof. I could indeed make known my Zeal on this oc<g ref="char:EOLhyphen"/>caſion
+with pleaſure, did I not know by Experience, that moſt that are Studious in
+this
+<pb n="2" facs="tcp:151643:18"/>Science paſs over ſuch lines with impatience
+and great neglect; for their minds be ſolicitous only about the pra<g ref="char:EOLhyphen"/>ctice of
+<hi>Alchymy,</hi> they reject almoſt every Line that treats not thereof.</p>
+            <p>I muſt indeed Confeſs that the Arcanum of this Art is not only
+defirable but truly Excellent; and alſo that there<g ref="char:EOLhyphen"/>by Divine Truths are
+adum<g ref="char:EOLhyphen"/>brated, yet alſo do affirm it gives not the poſſeſſion there<g ref="char:EOLhyphen"/>of,
+which is alone Entailed upon that Divine excellency that never faileth;
+Charity. For ſurely whether there be Propheſies they ſhall fail; or
+Tongues they ſhall Ceaſe; or Knowledge it ſhall vaniſh
+<pb n="3" facs="tcp:151643:18"/>away; but the word of the Lord (which is
+Chriſt the Charity or gift of God to the World) abideth for ever. Therefore
+let me admoniſh the Studious to purſue know<g ref="char:EOLhyphen"/>ledge in the Path thereof; who
+then will make a true E<g ref="char:EOLhyphen"/>ſtimation, and will per<g ref="char:EOLhyphen"/>ceive that it is not the
+ulti<g ref="char:EOLhyphen"/>mate Attainment but only a Link of the Divine Chain: And as there are
+ſteps to knowledge, ſo likewiſe there are ſteps beyond it; as the Holy
+ManDivinely ſets forth and admoniſheth, that Faith and Virtue precede
+Know<g ref="char:EOLhyphen"/>ledge; then to add to Know<g ref="char:EOLhyphen"/>ledge Temperance; to Tem<g ref="char:EOLhyphen"/>perance Patience; to
+Patience
+<pb n="4" facs="tcp:151643:19"/>Godlineſs; to Godlineſs Bro<g ref="char:EOLhyphen"/>therly
+Kindneſs, and to Bro<g ref="char:EOLhyphen"/>therly Kindneſs Charity. O happy Attainment! O Divine
+Chain of Perfection! There<g ref="char:EOLhyphen"/>fore we muſt ſay with the Inſpired
+<hi>Apoſtle, That altho' we ſhould underſtand all Myſte<g ref="char:EOLhyphen"/>ries and all
+Knowledge and had not Charity, it would availe no<g ref="char:EOLhyphen"/>thing.</hi> Farr hence,
+therefore ye ungodly; ye prophane and Covetous, for neither theſe Divine nor
+Natural Myſteries are your Portion.</p>
+            <p>But for the Virtuous, Pru<g ref="char:EOLhyphen"/>dent and well Accompliſhed Students
+and Lovers of Chy<g ref="char:EOLhyphen"/>mical <hi>Philoſophy,</hi> I have writ<g ref="char:EOLhyphen"/>ten this ſhort
+Tract in <hi>Bro<g ref="char:EOLhyphen"/>therly Love:</hi> not indeed by
+<pb n="5" facs="tcp:151643:19"/>way of Invitation to the <hi>Art,</hi> (tho' its
+truth and excellency would warrant it) there be<g ref="char:EOLhyphen"/>ing too many raſhly
+Concer<g ref="char:EOLhyphen"/>ned therein already, but to Inſtruct thoſe rightly ſeeking; and
+alſo if poſſible to prevent all from attempting to effect our Mageſtery
+by fruitleſs and vain Operations, by which they not only bring Diſgrace to
+the Art, but Poverty to themſelves.</p>
+            <p>And I may aſſure the In<g ref="char:EOLhyphen"/>genious, that it is the very de<g ref="char:EOLhyphen"/>ſire
+of thoſe that have obtain<g ref="char:EOLhyphen"/>ed a reward of their Labour and ſtudy, to be
+helpful. But I hope ſuch are not ignorant of the Difficulty of the Task; for
+as nothing Gratifies us
+<pb n="6" facs="tcp:151643:20"/>more then being underſtood in our own
+<hi>Philoſophical</hi> Sence, ſo nothing is more re<g ref="char:EOLhyphen"/>gretting then the
+thoughts of Introducing wicked and blocking Men.</p>
+            <p>Hence is required a peculi<g ref="char:EOLhyphen"/>ar Method in Writing that we may
+Inſtruct the one, and conceal from the other; and indeed many weighty
+Rea<g ref="char:EOLhyphen"/>ſons perſwades us to perform the Latter with what skill we can: Yet
+conſidering that we neceſſarily muſt, for the In<g ref="char:EOLhyphen"/>ſtruction of
+<hi>Tyroes,</hi> Candidly Write the Truth, and that every Treatiſe when
+publiſh<g ref="char:EOLhyphen"/>ed, is lyable to be peruſed by all; we conclude therefore on good
+Grounds, that the Event
+<pb n="7" facs="tcp:151643:20"/>is more owing to Providence then our Cunning.
+But in<g ref="char:EOLhyphen"/>deed the Writings of the En<g ref="char:EOLhyphen"/>vious, together with thoſe of the Ignorant
+(which are not a few) have proved a ſuffici<g ref="char:EOLhyphen"/>ent Bulwark againſt the raſh
+and confident Approachers; and they have alſo yielded an occaſion and
+opportunity to the more Candid and Know<g ref="char:EOLhyphen"/>ing, to Write the more plain and
+Familiar. And indeed the firſt Care of a <hi>Tyro</hi> ought to be the
+Diſtinguiſhing of Writers; that he may not only ſhun the falſe, but
+envi<g ref="char:EOLhyphen"/>ous, and Converſe with thoſe only that are knowing and Candid.</p>
+            <p>And therefore for the In<g ref="char:EOLhyphen"/>ſtruction
+<pb n="8" facs="tcp:151643:21"/>of thoſe that are not capable to make a true
+diſtin<g ref="char:EOLhyphen"/>ction between the true &amp; falſe Writings, it being indeed
+dif<g ref="char:EOLhyphen"/>ficult for <hi>Tyroes,</hi> for they have Written equal in their
+Pro<g ref="char:EOLhyphen"/>miſes both of their Candor and the Readers Reward, or ra<g ref="char:EOLhyphen"/>ther the latter
+have excelled, I ſhall recommend the more Candid as well as knowing Maſters
+in this Science, with advice to the Studious, they need not doubt their
+Suffici<g ref="char:EOLhyphen"/>ency to Inſtruct them in all things neceſſary without
+con<g ref="char:EOLhyphen"/>ſulting any others, tho'true ones, by which they may not only ſhun the
+falſe, but envi<g ref="char:EOLhyphen"/>ous Writings. I dare affirm there is nothing more tends to
+<pb n="9" facs="tcp:151643:21"/>to bring the Searchers of this Art to the
+knowledge thereof, then only to read Candid and knowing Authors; nor no<g ref="char:EOLhyphen"/>thing
+more confounding than the reading true and falſe Books with equal Credit.</p>
+            <p>I ſhall therefore recom<g ref="char:EOLhyphen"/>mend the Writings of <hi>Hermes,
+Arteſius, Flammel, Riply, Tre<g ref="char:EOLhyphen"/>veſan, Sendivogius,</hi> the Au<g ref="char:EOLhyphen"/>thor of the
+<hi>Hermetick Secrets,</hi> which are all Candid Au<g ref="char:EOLhyphen"/>thors, and to ſhorten the
+re<g ref="char:EOLhyphen"/>ckoning, all others that are quoted by theſe: But above any I muſt
+recommend one of our Moderns, who ſtiles himſelf <hi>Eironaeus Philale<g ref="char:EOLhyphen"/>thes
+Coſmopolita,</hi> whoſe Wri<g ref="char:EOLhyphen"/>tings are the beſt Piece of
+<pb n="10" facs="tcp:151643:22"/>
+               <hi>Chymical Philoſophy</hi> extant, and
+indeed has performed that for the Lovers of Art, that Challenges the Garland of
+Praiſe from all others; for whereas he, with many more, were fain to acquire
+the knowledge of the Secret of the <hi>Philoſophers Magnes</hi> from one; of
+their <hi>Magical Chalibs</hi> from another; the uſe of <hi>Di<g ref="char:EOLhyphen"/>ana's
+Doves</hi> from a third; the <hi>Air</hi> or rather <hi>Chamelian</hi> of the
+<hi>Philoſophers</hi> from ano<g ref="char:EOLhyphen"/>ther; the groſs Preparation of their
+<hi>Menſtruum</hi> in another; the number of <hi>Eagles</hi> in ano<g ref="char:EOLhyphen"/>ther; all
+which, together with Internal Fires and Pro<g ref="char:EOLhyphen"/>portions; ſecret and Manual
+operation with their Circum<g ref="char:EOLhyphen"/>ſtances;
+<pb n="11" facs="tcp:151643:22"/>he has <hi>Philoſophically</hi> and
+<hi>Methodically</hi> taught, with more Candor and freedom then thoſe before
+him.</p>
+            <p>Let <hi>Tyroes</hi> therefore rely upon this, the <hi>Authors</hi>
+men<g ref="char:EOLhyphen"/>tioned are abundantly ſuffici<g ref="char:EOLhyphen"/>ent; others may be read to confirm the
+ſtudious, but ſuch that cannot conceive the truth from theſe; would
+ne<g ref="char:EOLhyphen"/>ver from all others they can read, reap the Knowledge of our Secrets. And
+for the In<g ref="char:EOLhyphen"/>ſtruction of the Studious I will Inform them what is re<g ref="char:EOLhyphen"/>quiſite
+to be known in the reading theſe Authors men<g ref="char:EOLhyphen"/>tioned, and what muſt be
+ac<g ref="char:EOLhyphen"/>quired before they conclude they are underſtood. For it
+<pb n="12" facs="tcp:151643:23"/>is not ſufficient if a word or two in one and
+another ſeem to harmonize, and all the reſt ſeem ſuperfluous, and of no
+value; no, have no ſuch mean thoughts of the knowing <hi>A<g ref="char:EOLhyphen"/>depts,</hi> as
+tho' either their Sub<g ref="char:EOLhyphen"/>jects were ſo mean, or they ſo Barren: I can
+aſſure you their Writings abound with requiſite Matter, and Con<g ref="char:EOLhyphen"/>curring
+Truths; and unleſs they are ſo read and under<g ref="char:EOLhyphen"/>ſtood, as an Egg is eaten,
+<hi>viz.</hi> throwing away only the ſhell (which is a ſmall proportion)
+they are not comprehended nor underſtood aright, not<g ref="char:EOLhyphen"/>withſtanding any
+Conceit to the Contrary. Therefore, till they are thus underſtood, go
+<pb n="13" facs="tcp:151643:23"/>not to practice any Theory with expectation of
+Succeſs. In order therefore to a right underſtanding, I ſhall lay a
+ſound Foundation for the ſtu<g ref="char:EOLhyphen"/>dious <hi>Tyroes,</hi> and whoſoever Builds
+thereon according to Art, ſhall find it ſure and the foundation of all
+<hi>Philoſophers.</hi>
+            </p>
+            <p>Nature therefore forbid<g ref="char:EOLhyphen"/>ding all Generation and Mul<g ref="char:EOLhyphen"/>tiplication of
+Species out of kind, let none fooliſhly endea<g ref="char:EOLhyphen"/>vour to effect it; for as in it
+ſelf it is impoſſible, ſo alſo it is againſt that unanimous
+ad<g ref="char:EOLhyphen"/>monition of all <hi>Philoſophers; apply all things to the poſſibility
+of Nature.</hi>
+            </p>
+            <p>Know therefore the Gene<g ref="char:EOLhyphen"/>ration and Multiplication of
+<pb n="14" facs="tcp:151643:24"/>all things is effected no other way than by
+their own Seeds and proper Matters, not from the Commixtion of four Ele<g ref="char:EOLhyphen"/>ments,
+as ſome fondly Ima<g ref="char:EOLhyphen"/>gine. The Seed of <hi>Animals</hi> Reſteth in their
+Reins; the Seeds of <hi>Vegitables</hi> are produ<g ref="char:EOLhyphen"/>ced into the Air; the Seed of
+Metals reſteth in their Pro<g ref="char:EOLhyphen"/>fundity, but is only to be found in the Perfect:
+for un<g ref="char:EOLhyphen"/>till any thing bearing Seed be come to a degree of Perfecti<g ref="char:EOLhyphen"/>on, it
+cannot emit its Seed; as is ſeen in an Aple or Pear, if pluckt from the Tree
+before its time, it cannot yield Seed; likewiſe the ſame is known in Humane
+Youth; no more can imperfect or unripe Metalls,
+<pb n="15" facs="tcp:151643:24"/>tho'as in the other, the po<g ref="char:EOLhyphen"/>tentiality truly
+exiſt. How fooliſh then do many act who not only forſake the perfect,
+(which alone can yield ſeed) but even ſeek a Metaline ſeed from an Animal
+or Vegitable? O Groſs Ignorance exceeding the Vulgar, who never expect Wheat
+without the Seed of Wheat, nor a Horſe but by a Horſe! Leave off therefore
+you fooliſh and vain Opera<g ref="char:EOLhyphen"/>tors, ſeeing the meaneſt Ca<g ref="char:EOLhyphen"/>pacity is able to
+Arraign your <hi>Philoſophy,</hi> and charge it with abſurdity.</p>
+            <p>So then as every thing to be Generated muſt have its own Seed,
+ſo muſt alſo every Seed have its proper Matter;
+<pb n="16" facs="tcp:151643:25"/>for the firſt Matter of things is not their
+Seeds, but that by which the Seed and Species is Multiplyed. The firſt
+Mat<g ref="char:EOLhyphen"/>ter of Vegitables is water, without a ſufficient quantity of which, no
+Vegitable can in<g ref="char:EOLhyphen"/>creaſe; nor out of one Load of Corn ſowed could ten be
+reaped: So alſo, if we had ne<g ref="char:EOLhyphen"/>ver ſo much Matter and not Seed, the
+Generation is im<g ref="char:EOLhyphen"/>poſſible. The like alſo may be obſerved in the
+Generati<g ref="char:EOLhyphen"/>on of Man; for altho' the Seed may be plentifully. caſt into its
+proper <hi>Matrix</hi> and that <hi>Matrix</hi> barren of matter, <hi>viz.
+Menſtruum,</hi> no Generati<g ref="char:EOLhyphen"/>on follows: So on the contra<g ref="char:EOLhyphen"/>ry in thoſe
+<hi>Matrix</hi>'s where is
+<pb n="17" facs="tcp:151643:25"/>plenty of matter and not Seed, the hopes of
+Generation cea<g ref="char:EOLhyphen"/>ſes.</p>
+            <p>All this is applicable to <hi>Me<g ref="char:EOLhyphen"/>tals,</hi> the firſt matter of
+which is <hi>Mercury</hi> as alſo of all <hi>Minerals</hi> that are of
+Metallick impoſi<g ref="char:EOLhyphen"/>tion; for untill it be <hi>Mercury</hi> it is not the
+firſt matter of <hi>Metals,</hi> but may be other<g ref="char:EOLhyphen"/>ways diſpoſed, but when
+once <hi>Mercury,</hi> it tends only to <hi>Metals</hi> in a generative way.
+hence may be learned the fol<g ref="char:EOLhyphen"/>ly &amp; Ignorance of thoſe that ſeek after,
+or brag of the firſt matter of <hi>Mercury,</hi> yea of all things, which
+admit they had the very matter of which Na<g ref="char:EOLhyphen"/>ture makes <hi>Mercury</hi> they
+could by no art effect it, and conſe<g ref="char:EOLhyphen"/>quently avail them nothing,
+<pb n="18" facs="tcp:151643:26"/>as being neither ſeed nor mat<g ref="char:EOLhyphen"/>ter. Leave off
+therefore ſuch vain attempts, and follow ſimple Nature, whoſe daily
+Operations would better In<g ref="char:EOLhyphen"/>ſtruct were they Contempla<g ref="char:EOLhyphen"/>ted rightly; and learn
+to mul<g ref="char:EOLhyphen"/>tiply a <hi>Metallick Species,</hi> with a <hi>Metallick Seed</hi> and
+<hi>matter;</hi> for certainly it is poſſible by no other means to effect
+it.</p>
+            <p>And that I may evince to all, for the prevention of Er<g ref="char:EOLhyphen"/>roneous
+Attempts, that Crude <hi>Mercury</hi> is the matter of all <hi>Metals,</hi>
+Learn and underſtand. Firſt, that all may be reduced into <hi>Mercury</hi>
+and according to the purity or impurity of the <hi>Metals</hi> is the quantity
+thereof; <hi>Gold</hi> and <hi>Silver,</hi> are
+<pb n="19" facs="tcp:151643:26"/>wholly reduced, others aboun<g ref="char:EOLhyphen"/>ding with the
+Heterogeneous Superfluities not: Hence is learned the purity and impu<g ref="char:EOLhyphen"/>rity of
+theſe Bodies: This ſhould teach all they proceed<g ref="char:EOLhyphen"/>ed from this
+<hi>Mercurial</hi> Root. Alſo it being certain that our <hi>Cryſopoetick
+Arcanum,</hi> is Ca<g ref="char:EOLhyphen"/>pable of making Gold of no other matter in the World; for
+ſo much as any Metal has of <hi>Mercurial</hi> matter, ſo much only is
+tranſmutable into <hi>Gold;</hi> neither doth it differ in quality, when
+effected, though projected upon one, two, or more of them, but only quan<g ref="char:EOLhyphen"/>tity:
+hence it comes to paſs that a greater quantity of <hi>Mercury</hi> is
+tranſmuted then any other
+<pb n="20" facs="tcp:151643:27"/>imperfect <hi>Metal,</hi> it being joy<g ref="char:EOLhyphen"/>ned with
+leſs extraneous mat<g ref="char:EOLhyphen"/>ter, tho' not wholly without. Alſo, from hence may be
+ga<g ref="char:EOLhyphen"/>thered what the matter of our <hi>Arcanum</hi> muſt of neceſſity be;
+for thoſe curious in their In<g ref="char:EOLhyphen"/>ſpections know, that between things
+aſſimilated by Tranſ<g ref="char:EOLhyphen"/>mutation, there muſt inter<g ref="char:EOLhyphen"/>cede precedent
+likeneſs, or no induſtry can cauſe 2 Union.</p>
+            <p>And now if what have been ſaid, be not ſufficient to
+Eſta<g ref="char:EOLhyphen"/>bliſh a <hi>Tyro,</hi> reclaim the raſh, and inform the Ignorant, I
+know not what would. Tho' indeed it is no more then has been ſaid by many
+<hi>Philoſophers,</hi> whoſe ſayings would better Inſtruct their
+<pb n="21" facs="tcp:151643:27"/>Readers, and would prevent thoſe
+abſurdities they run in<g ref="char:EOLhyphen"/>to, were they better obſer<g ref="char:EOLhyphen"/>ved. How often has this
+truth been inculcated (tho' heeded by few) that no diſ<g ref="char:EOLhyphen"/>ſolvent ought to
+differ from the diſſolvend in matter but Proportion and Digeſtion:
+alſo, that no Water Diſſolves Bodies in a Generative way, but that which
+is of the ſame Species, and can be Inſpiſſated in them: what can be
+bet<g ref="char:EOLhyphen"/>ter ſpoken, or in ſo few words comprehends more?</p>
+            <p>But notwithſtanding what is ſaid, I expect many will
+per<g ref="char:EOLhyphen"/>ſevere in vain Attempts, For when I have Diſcourſed the Reaſon and
+poſſibility of the
+<pb n="22" facs="tcp:151643:28"/>Art to ſome with all the skill and
+plainneſs I was able, they could not conceive it, be<g ref="char:EOLhyphen"/>ing prepoſſeſſed
+with a Con<g ref="char:EOLhyphen"/>ceited knowledge of true Principles: Hence the ſtudi<g ref="char:EOLhyphen"/>ous may learn
+that the Ignorance of the igno<g ref="char:EOLhyphen"/>rant is more owing to their own folly then the
+remote<g ref="char:EOLhyphen"/>neſs of truth. And truly when we ſee ſo many wiſe men, ca<g ref="char:EOLhyphen"/>pable
+of effecting any thing that falls within the bounds of Wit and Learning,
+Con<g ref="char:EOLhyphen"/>founded in an Art ſo Natu<g ref="char:EOLhyphen"/>ral, eaſie and true; ſo fully treated of,
+and ſo deſirably ſought after, cannot but ad<g ref="char:EOLhyphen"/>mire the protection thereof:
+which among others is one Reaſon the <hi>Philoſophers</hi> have
+<pb n="23" facs="tcp:151643:28"/>unanimouſly declared it to be the Gift of
+God: Therefore, ſeeing it is thus, with what ſhame ought thoſe
+Sophiſters to be Cloathed who pretend to diſpenſe the knowledge thereof
+at their Pleaſure; of ſuch beware, and with all di<g ref="char:EOLhyphen"/>ligence ſhun, and
+ſeek it alone at the Hand of the true Gi<g ref="char:EOLhyphen"/>ver, to whom be praiſe alone.</p>
+            <p>Now therefore, let me fur<g ref="char:EOLhyphen"/>ther admoniſh the ſtudious, that
+they wittily underſtand the <hi>Philoſophers,</hi> not careleſly paſs
+over thoſe things that not only would prevent Er<g ref="char:EOLhyphen"/>rors, but introduce
+know<g ref="char:EOLhyphen"/>ledge: and in the firſt place learn the effects of our diſſol<g ref="char:EOLhyphen"/>ving
+Water, by which a true
+<pb n="24" facs="tcp:151643:29"/>eſtimation may be made there<g ref="char:EOLhyphen"/>of, and of the
+Diſſolvents of the vulgar. Gold is diſſolved in our Humidity, like Ice
+in warm Water; obſerve the example, and conſider the Identity of matter
+between Ice and Water, and apply it to our Principles: Ice is Wa<g ref="char:EOLhyphen"/>ter congealed,
+therefore Na<g ref="char:EOLhyphen"/>turally reſolves into Water, and when mixed with Water becomes
+one inſeperably with it: therefore ſuch an humi<g ref="char:EOLhyphen"/>dity which diſſolves
+Gold like the Example, muſt be that out of which Gold is produ<g ref="char:EOLhyphen"/>ced by Nature,
+otherways the union will be impoſſible, and the Reduction not Natural. The
+Author of the <hi>New Light</hi>
+               <pb n="25" facs="tcp:151643:29"/>has candidly written the ſame thing.
+<q>
+                  <hi>Seek</hi> (ſaith he) <hi>ſuch an humidity or moiſture
+which doth diſſolve Gold without noiſe or Violence, yea ſo ſweet<g ref="char:EOLhyphen"/>ly
+and naturally as Ice doth melt in warm water; if you find out this, you have
+that thing out of which Gold is pro<g ref="char:EOLhyphen"/>duced by nature.</hi> Again, <hi>Our</hi>
+Argent Vive <hi>doth diſ<g ref="char:EOLhyphen"/>ſolve Gold or Silver ſo, that it cannot be
+ſeparated from them, but is as water mixed with water.</hi>
+               </q> And truly let
+me add (to ſhew you fully) our Humidity can by an eaſie art be actually
+made into Gold or Silver, whence may be lear<g ref="char:EOLhyphen"/>ned its <hi>Pondus,</hi> which at
+once throws off all that are ſhort of
+<pb n="26" facs="tcp:151643:30"/>Metalick weight, yea it ex<g ref="char:EOLhyphen"/>ceeds ſomewhat
+that of Com<g ref="char:EOLhyphen"/>mon <hi>Argent Vive;</hi> therefore let all beware of ſeeking any
+other for our intent.</p>
+            <p>And now, if any be igno<g ref="char:EOLhyphen"/>rant of the Matter, or arro<g ref="char:EOLhyphen"/>gantly
+oppoſe what hath been ſaid, their ingratitude on the one hand, and
+ignorance on the other will exclude them the <hi>Kings Palace,</hi> and we
+muſt leave them groping for the <hi>Door,</hi> whilſt the true
+<hi>Artiſts</hi> Triumphs in their <hi>Victory,</hi> and are ſplendidly
+Entertained therein.</p>
+            <p>But to as many as conceive I will add this, that if the part of an
+<hi>Artiſt</hi> be performed, to make the water that is cold,
+<pb n="27" facs="tcp:151643:30"/>warm; they ſhall perform our Solution
+according to the Ex<g ref="char:EOLhyphen"/>ample.</p>
+            <p>And that I may prevent a Common Error, <hi>Viz.</hi> The
+Counfounding our natural diſ<g ref="char:EOLhyphen"/>ſolvent with our Circulated <hi>Salt,</hi> or
+<hi>Alkaheſt</hi> ſome Igno<g ref="char:EOLhyphen"/>rant Boaſters, that neither knew the one nor
+the other, having taught that they are both the ſame, ſhall ſo far ſhew
+their Difference, that no <hi>Tyro</hi> but may effectually diſtinguiſh
+them in his Theory. Know therefore, and note well this ſhort Diſtinction;
+there is no Affinity between them either in Matter or Operation; they Differ in
+Matter as much as one Species doth from another,
+<pb n="28" facs="tcp:151643:31"/>the one being Metalline, the other Saline: They
+Differ in their Operations, as much as Love and Wrath, the one in Love
+preſerving, the other in Wrath deſtroying, Life and Motion.</p>
+            <p>I cannot but admire, not<g ref="char:EOLhyphen"/>withſtanding the real Care and great
+Labour of many knowing and candid Philoſo<g ref="char:EOLhyphen"/>phers to prevent Errors in
+ad<g ref="char:EOLhyphen"/>moniſhing the Studious to be<g ref="char:EOLhyphen"/>ware of Subtilty, Sequeſtring the Art from
+the many <hi>So<g ref="char:EOLhyphen"/>phiſms,</hi> and Calling their Prin<g ref="char:EOLhyphen"/>ciples by their proper
+Names, to ſee men ſtudious in this Art ſo fooliſh in their
+Concluſions and operations; ſome propoſing to make our Secret and great
+<pb n="29" facs="tcp:151643:31"/>
+               <hi>Elixir,</hi> which is a Fire-abiding
+Purrity, and perfect <hi>Tincture</hi> from impure and Combuſtible Matters as
+<hi>Ordure, Wine, <g ref="char:V">Ʋ</g>rine, Nitre, Blood, Dew, Rain-water, Earth, Vitriol,</hi>
+and many others too tedious to reckon, being led thereto by their own ſor<g ref="char:EOLhyphen"/>did
+Fancy, or having read per<g ref="char:EOLhyphen"/>haps thereof in the Writings of the wiſe men (for
+they have by Analogie called their mat<g ref="char:EOLhyphen"/>ters almoſt every thing) hence no
+<hi>Sophiſter</hi> no Ignorant Wor<g ref="char:EOLhyphen"/>ker, but pretends to Juſtifie his
+Proceedings, tho' upon theſe fordid Subjects, from their Writings, but their
+End will be Diſappointment, if not Diſgrace and Poverty. Theſe indeed go
+on in Errors
+<pb n="30" facs="tcp:151643:32"/>with this Comfort, that many of the Adepts do
+ſay they er<g ref="char:EOLhyphen"/>red oft, and one particularly two hundred times, but tho' they
+ſhould erre the ſame Number, yet not being ſup<g ref="char:EOLhyphen"/>ported by a true Theory,
+nor underſtanding the nature of the thing deſired, are Chuſing as many
+Matters almoſt as Ope<g ref="char:EOLhyphen"/>rations, and ſo find the poſſi<g ref="char:EOLhyphen"/>bility of the
+Multiplication of Errors, <hi>ad infinitum,</hi> tho' not of <hi>Tincture</hi>
+truely perfect and Permanent; Oh miſerable Blindneſs! O inextricable
+<hi>La<g ref="char:EOLhyphen"/>borinth!</hi> whoſe miſerable ſtate take from <hi>Geber</hi>
+(ſubtile wit<g ref="char:EOLhyphen"/>ted indeed enough but of his Candor be jealous
+<q>
+                  <hi>moſt mi<g ref="char:EOLhyphen"/>ſerable and unhappy is he who
+<pb n="31" facs="tcp:151643:32"/>after the end of his Work God denies to ſee
+the Truth, for he ends his Life in Error: who be<g ref="char:EOLhyphen"/>ing ſurrounded with all
+manner of misfortune and infelicity, conſtituted in perpetual labour,
+looſeth all the comfort and joy of this World, and ſpends his life in
+ſorrow without any be<g ref="char:EOLhyphen"/>neſit or reward.</hi>
+               </q> I will add my own Opinion,
+their reward is juſt, who provoke God, en<g ref="char:EOLhyphen"/>deavour to force Nature, abuſe
+the Adepts, and abound in ig<g ref="char:EOLhyphen"/>norance and folly.</p>
+            <p>Therefore as many as ex<g ref="char:EOLhyphen"/>pect better fare, let them ſeek rightly;
+firſt call upon God and know your hearts to be pur<g ref="char:EOLhyphen"/>ged from Impurity, and
+Faith to have poſſeſſion, by which
+<pb n="32" facs="tcp:151643:33"/>you may attain to Virtue then purſue
+Knowledge; alſo be ſure to attempt nothing con<g ref="char:EOLhyphen"/>trary to Nature, and with
+great reſpect acknowledge the Love and Care of the Adept Brothers that have
+communi<g ref="char:EOLhyphen"/>cated their Experience and hinted the way; then purſue our
+<hi>Diana</hi> with great Induſtry, whoſe Beauty is ſingular and qualitys
+excellent; ſhe is more fair, more grave, and yet live<g ref="char:EOLhyphen"/>ly and more fit for
+Generation then any other; Marry her to the Sun, and their Off-Spring ſhall
+be your Reward.</p>
+            <p>And for your Inſtruction know, and note it well, that our water
+or <hi>Mercury</hi> is a <hi>Com<g ref="char:EOLhyphen"/>pound-Simple,</hi> Compound in
+<pb n="33" facs="tcp:151643:33"/>reſpect to quality, ſimple in re<g ref="char:EOLhyphen"/>ſpect to
+Matter and <hi>Homoge<g ref="char:EOLhyphen"/>neity:</hi> The Matter is Watry, the Quality Fiery, which
+are reconciled by Air (according to the Doctrine of Elements) but according to
+the Principles thus, the Matter is <hi>Mercurial,</hi> the Quality
+<hi>Sulphureous,</hi> Re<g ref="char:EOLhyphen"/>conciled by Salt; which alſo may be, and ſometimes
+are, called the Water, the Spirit, and the Blood, or Body, Soul and Spirit;
+take it either way, but be ſure to underſtand them Scientificially or
+Practically, the neceſſity of which learn from this following Diſcove<g ref="char:EOLhyphen"/>ry.
+<hi>Salt</hi> prepares <hi>Sulphur, Salt</hi> and <hi>Sulphur</hi> prepares
+<hi>Mer<g ref="char:EOLhyphen"/>cury, Mercury</hi> preſerves them:
+<pb n="34" facs="tcp:151643:34"/>So that without <hi>Salt, Sulphur</hi> cannot
+be prepared or ſet at liberty from his Priſon, it be<g ref="char:EOLhyphen"/>ing the only Key
+thereto; without <hi>Salt</hi> and <hi>Sulphur Mer<g ref="char:EOLhyphen"/>cury</hi> cannot be
+qualified, and without <hi>Mercury, Salt</hi> and <hi>Sul<g ref="char:EOLhyphen"/>phur</hi> can effect
+nothing, it be<g ref="char:EOLhyphen"/>ing their proper Veſſel or Ma<g ref="char:EOLhyphen"/>trix: But be ſure all be
+Homo<g ref="char:EOLhyphen"/>geneal, or the <hi>Mercurial</hi> ſim<g ref="char:EOLhyphen"/>plicity will be impoſſible;
+therefore make the latter Judge of the two former, for all Me<g ref="char:EOLhyphen"/>taline things are
+tryed in a <hi>Mercurial</hi> Ballance. Firſt learn theſe things
+Theoretically, and ſee the ſame confirmed by ma<g ref="char:EOLhyphen"/>ny <hi>Philoſophers</hi>
+before you en<g ref="char:EOLhyphen"/>ter upon Practice, this is ſafe and delightful: And then,
+al<g ref="char:EOLhyphen"/>tho
+<pb n="35" facs="tcp:151643:34"/>Errors ſhould happen (which expect) yet being
+ſup<g ref="char:EOLhyphen"/>ported by a true Theory, they will Inſtruct, but till then confound and
+Diſtract. Be<g ref="char:EOLhyphen"/>lieve me and take this candid Advice.</p>
+            <p>Therefore, as many as ſets about this Work, let them firſt
+know what they ſeek, and what they would effect. It is no ſmall thing to be
+capable to inform matter, and that in an inſtant; conſider who it
+imi<g ref="char:EOLhyphen"/>tates; did not our Lord effect this at the Marriage in <hi>Canaan</hi> on
+the Water, which was the matter of Wine. Think not therefore it is attained
+with<g ref="char:EOLhyphen"/>out a Bleſſing from him, pro<g ref="char:EOLhyphen"/>found Meditation, <hi>Herculean</hi>
+Labour and Coſt.</p>
+            <pb n="36" facs="tcp:151643:35"/>
+            <p>Diligently therefore attend, and note well what I ſay. Mat<g ref="char:EOLhyphen"/>ter
+is informed by Light; of which matter and form all cre<g ref="char:EOLhyphen"/>ated Concrets
+conſiſts, Light being the form in all Concretes and life of all Beings,
+which Light is ineffable &amp; not known abſtract from matter, as we ſee in
+the moſt beautiful Creature either humane or other, as al<g ref="char:EOLhyphen"/>ſo in the curious
+Flowers of the Earth, how through the with<g ref="char:EOLhyphen"/>drawing of an inviſible fire or
+Spirit they become dead, Opake and fit only for Corruption, that Nature may
+again react and communicate form; ſuch are her viſciſſitudes; but ſhe
+alſo has her Darling and laſt perfection, wherein ſhe has
+<pb n="37" facs="tcp:151643:35"/>firmly united form with pure matter, yea ſo
+firmly that with<g ref="char:EOLhyphen"/>out the help of Art ſhe can hardly alter the ſame; and
+ſee<g ref="char:EOLhyphen"/>ing the perfection of matter is Form, why ſhould any ſtudi<g ref="char:EOLhyphen"/>ous in
+<hi>Philoſophy</hi> neglect to Contemplate the perfection of Gold, which is
+thus perfected by Nature. And truly if its Permanancy and Beauty be not
+ſufficient to Captivate his Thoughts and Hands from working on things impure
+and fading, I muſt tell him his off<g ref="char:EOLhyphen"/>ſpring will not be long lived, for
+ſuch as the Tree is, ſuch is the Fruit, ſuch as the Father is, ſuch is
+the Son.</p>
+            <p>This Form is called <hi>Sulphur</hi> by the Author of <hi>the new
+Light,</hi>
+               <pb n="38" facs="tcp:151643:36"/>and in his <hi>Dialogue</hi> thereof thus
+Writes,
+<q>
+                  <hi>He is the Maker of a thouſand things, he knows how to make
+Metals better, and Correct Minerals; and is the heart of all things, he
+teacheth Animals underſtanding, knows how to make all kinds of Flow<g ref="char:EOLhyphen"/>ers in
+Herbs and Trees, and is Chief over them, Corrupts the Air which he amends
+again; he is maker of all Odours, and Painter of all Colours.</hi> Again,
+<hi>Know that Sulphur is the Vir<g ref="char:EOLhyphen"/>tue of all things.</hi>
+               </q>
+            </p>
+            <p>Here let the ſtudious in <hi>Al<g ref="char:EOLhyphen"/>chymy</hi> open their Eyes and
+be<g ref="char:EOLhyphen"/>hold what Reaſon we have to Proclaim our Principles or Sub<g ref="char:EOLhyphen"/>jects
+univerſal, <hi>viz.</hi> Matter and Form, and to be in all places, but
+underſtand ſuch as ſeek
+<pb n="39" facs="tcp:151643:36"/>
+               <hi>Sulphur</hi> for our Intent, muſt
+conceive that it is nearer in ſomethings then in others, and without they
+apply themſelves to thoſe Palaces where <hi>Sulphur</hi> gives Audience to
+the <hi>Philoſo<g ref="char:EOLhyphen"/>pers,</hi> they may for ever ſeek but not find him.</p>
+            <p>Ariſe therefore you ſons of <hi>Hermes,</hi> &amp; contemplate
+on the Light, the Corporification of which is the utmoſt bound of Nature, yea
+what is it elſe but the Sun it ſelf? who that goes about to ſeek it in
+things fading and impure finds it, tho' truly there? but of too ſwift foot
+for the nimbleſt purſuers, and ſeeing it is inviſible in the Concretes,
+and known only by effect; &amp; can in no wiſe be at<g ref="char:EOLhyphen"/>tained
+<pb n="40" facs="tcp:151643:37"/>abſtract from matter, and conſequently
+matter muſt enter into the work, what man would be ſo fooliſh to expect a
+Fire abiding purity from im<g ref="char:EOLhyphen"/>pure Matters, neither a ſtrict union of the form
+therewith. Therefore ſeeing the matter to which the form is intimately
+united, muſt neceſſarily excel in purity and permanency, and alſo that
+the form in ſuch a matter is Corporified, and doth abound, where ſhould an
+Artiſt ſeek for form but in ſuch a matter, now <hi>Gold</hi> being ſuch
+is found to be the only ſubject capable of anſwering the de<g ref="char:EOLhyphen"/>ſires of the
+Artiſt; who begins where Nature left, &amp; through her aſſiſtance, and
+an Homoge<g ref="char:EOLhyphen"/>neous
+<pb n="41" facs="tcp:151643:37"/>Agent, proceeds to let looſe the form in a
+Natural way; which form reacting on the matter enobles it, &amp; brings it
+nearer its own Nature: ſo that every time the form is thus ſet at Liberty,
+or ſtirred up to action, it goes on to its end, <hi>viz.</hi> to inform
+matter, and when the end of its Action is come reſteth; thus it is
+reitera<g ref="char:EOLhyphen"/>ted till the matter be ſwallow<g ref="char:EOLhyphen"/>ed up in the form, which then becomes
+corporified form, and according to its perfection in<g ref="char:EOLhyphen"/>forms more or leſs
+matter on which it is projected. Hence alſo may be learned how it be<g ref="char:EOLhyphen"/>comes
+univerſal, ſeeing it paſ<g ref="char:EOLhyphen"/>ſeth from ſpecification thither; and the
+nearer the matter is
+<pb n="42" facs="tcp:151643:38"/>brought to the form, the far<g ref="char:EOLhyphen"/>ther off
+ſpecification, yea ſo far therefrom may it paſs, that it will not be
+applicable to <hi>Metals</hi> in reſpect to Tranſmu<g ref="char:EOLhyphen"/>tation, but will
+perpetually ſhine and excell the Nature of tangible Bodies. This is our whole
+<hi>Philoſophy,</hi> comprehen<g ref="char:EOLhyphen"/>ded in this ſhort Theory.</p>
+            <p>But in order to ſet the form at Liberty, that it may thus re<g ref="char:EOLhyphen"/>act
+upon the matter, the Body muſt be reduced into its firſt matter, or water
+Homogeneal, in a natural way, whereby the Species is preſerved; and ſee<g ref="char:EOLhyphen"/>ing
+this can be done by no o<g ref="char:EOLhyphen"/>ther means then by the firſt matter thereof, let
+none be either ſo raſh or fooliſh to at<g ref="char:EOLhyphen"/>tempt it.</p>
+            <pb n="43" facs="tcp:151643:38"/>
+            <p>I have abundantly ſhown al<g ref="char:EOLhyphen"/>ready the difference of firſt
+matters, and that they differ ſo ſar in each Species, that the firſt
+matter of an Animal, or Vegitable, is heterogeneous to a Metal, and ſo on the
+contra<g ref="char:EOLhyphen"/>ry; and conſequently can nei<g ref="char:EOLhyphen"/>ther Generate nor encreaſe a Metal,
+which is Generated or multipled by no other matter then its own, as I have
+<hi>Philo<g ref="char:EOLhyphen"/>ſophically</hi> and plainly ſhown; which is alſo atteſted by
+all <hi>Philoſophers.</hi> The noble <hi>Polo<g ref="char:EOLhyphen"/>nian</hi> ſpeaking of the
+<hi>Gold</hi> found between the Teeth of a dead man, takes occaſion thus to
+ex<g ref="char:EOLhyphen"/>preſs himſelf, <hi>That unleſs Mi<g ref="char:EOLhyphen"/>neral Mercury</hi> (which is the
+matter of Gold) <hi>had been brought
+<pb n="44" facs="tcp:151643:39"/>in thither, there could never have been Gold
+produced.</hi> We may ſay with him, many the like accidents fall out, which
+being not well conſidered by the Writer, occaſions the Rea<g ref="char:EOLhyphen"/>der to err. But
+the honeſt ſearcher muſt apply all things to the Poſſibility of
+Nature, if they agree not with her, they muſt be let alone, who Gene<g ref="char:EOLhyphen"/>rates
+and multiplys all things by their own Seeds and pro<g ref="char:EOLhyphen"/>per matters.</p>
+            <p>A further proof of the diffe<g ref="char:EOLhyphen"/>rence of the firſt matters of each
+Species is learned from the acti<g ref="char:EOLhyphen"/>on of our noble Circulated <hi>Salt</hi> or
+<hi>Alkaheſt</hi> upon them, by which they are reduced into their firſt
+matters, and in their re<g ref="char:EOLhyphen"/>duction
+<pb n="45" facs="tcp:151643:39"/>give certain teſtimony of their diverſity,
+as Metals in<g ref="char:EOLhyphen"/>to <hi>Sulphur,</hi> and <hi>Mercury,</hi> Pearls,
+<hi>&amp;c.</hi> into a milky juice. So that the vanity of endeavouring to
+Generate or multiply one Spe<g ref="char:EOLhyphen"/>cies by the ſeed and matter of another, is
+deſervedly reward<g ref="char:EOLhyphen"/>ed with the loſs both of money and time: but that it may
+be prevented for the future, I have candidly ſhown the ſtudious the Law of
+Nature and Art, which ſtrictly forbids, and moſt certainly puniſheth
+ſuch ab<g ref="char:EOLhyphen"/>ſurd Practices.</p>
+            <p>Alſo I would admoniſh ſuch that preſume they underſtand
+us, not to be too groſs, nor to apply this our plain Writings to this or the
+other ſubtile de<g ref="char:EOLhyphen"/>vice,
+<pb n="46" facs="tcp:151643:40"/>that perhaps we never thought of; for I have
+often known the ſoolithneſs of many on this wiſe, who having read often
+that <hi>Mercury</hi> is the matter of Metals, preſently con<g ref="char:EOLhyphen"/>clude it to be
+the ſubject of our Work, and with great confi<g ref="char:EOLhyphen"/>dence and equal aſſurance
+of their ſucceſs go to work, and perhaps endeavour to diſſolve it into
+water, becauſe the <hi>Phi<g ref="char:EOLhyphen"/>loſophers</hi> ſay their matter muſt be
+diſſolved, or to impregnate it with Air, becauſe they ſay it muſt be
+impregnated with Air, or to Calcine it, they ha<g ref="char:EOLhyphen"/>ving ſo read, others to
+ſublime, Diſtil, putrifie, ſeparate the Elements, and many other
+foo<g ref="char:EOLhyphen"/>liſh endeavours, not in the leaſt
+<pb n="47" facs="tcp:151643:40"/>agreeable, but deſtructive to Nature. Yet
+ſeem to juſtifie their proceedings by our Wri<g ref="char:EOLhyphen"/>tings.</p>
+            <p>Being therefore moved with reſpect to truth and Love to the
+ſons of <hi>Hermetick</hi> Learning; as alſo with indignation of Er<g ref="char:EOLhyphen"/>ror, I
+will ſhew you wherein you erre, and where you miſs the way by thus
+conceiving. You fooliſhly and Blindly ap<g ref="char:EOLhyphen"/>ply theſe Natural Operations of
+our Work to the preparati<g ref="char:EOLhyphen"/>on of our matters (of which many
+<hi>Philoſophers</hi> have Writ but little, making the firſt the ſubject
+of their Diſcourſe, for their Excellency, as indeed they have been thoſe
+of their admi<g ref="char:EOLhyphen"/>ration) and alſo inconſiderat<g ref="char:EOLhyphen"/>ly
+<pb n="48" facs="tcp:151643:41"/>apprehending the one for the other err moſt
+groſly. For if any attempt that mannually which can only be performed
+Naturally, no wonder if they miſs of their deſigned end. Be<g ref="char:EOLhyphen"/>hold I have
+faithfully ſhewed you the Truth: and let me aſ<g ref="char:EOLhyphen"/>ſure you, till this one
+skill be performed, that is, to diſtin<g ref="char:EOLhyphen"/>guiſh between our natural and manual
+Operations, you will be confounded in the writings of the Adepts do what you
+can. It is this alone that can enable a <hi>Tyro</hi> to go on in the purſuit
+of <hi>Diana</hi> with courage and de<g ref="char:EOLhyphen"/>light, yea it is the very ſhroud that
+covers her and hinders the eyes of the vulgar from behol<g ref="char:EOLhyphen"/>ding her
+<hi>Doves</hi> (which are ſo
+<pb n="49" facs="tcp:151643:41"/>anxiouſly ſought) and her beau<g ref="char:EOLhyphen"/>ty that
+allures the Sun. And truly we cannot but admire the Conſidence of ſome
+boaſting Sophiſters, who know not Na<g ref="char:EOLhyphen"/>ture in the leaſt of her
+Operati<g ref="char:EOLhyphen"/>ons, yet preſume to be conver<g ref="char:EOLhyphen"/>ſant in the knowledge of this
+ſecret Pair; and do imagine to themſelves, and confidently af<g ref="char:EOLhyphen"/>firm to
+others they are this or the other thing, and thus pre<g ref="char:EOLhyphen"/>pared. But remember what
+the <hi>Philoſopher</hi> ſaid, who ſpeaks as fully concerning them as
+any,
+<q>
+                  <hi>That no eye but a true Philoſophers ever ſaw
+them,</hi>
+               </q> but when ſeen and known this is the effect, according to the
+ſame Philoſopher,
+<q>
+                  <hi>This one skill per<g ref="char:EOLhyphen"/>forms the Maſtery of Theory, enobles a
+Philoſopher, and un<g ref="char:EOLhyphen"/>folds
+<pb n="50" facs="tcp:151643:42"/>to the knower all our Se<g ref="char:EOLhyphen"/>crets.</hi>
+               </q> By
+which all may know whether they conceive aright, for all pretences or Conceits
+of the knowledge thereof, that has not this effect is certainly of no value.
+And indeed the ſecret <hi>Doves</hi> of our ſecret <hi>Dyana</hi> are truly
+remote from every vulgar eye, her Fountain and Wood muſt firſt be known
+where they aſcend and deſcend before you attempt to catch them. Seek then
+wiſely, &amp; when their neſt is found, encloſe them with a tranſparent
+Wall, ſo high and cloſe that they cannot eſcape by flight, then ſtirr
+them up, but at firſt expect only the female who is more watchful then her
+Mate, but ſhe will return and bring him alſo. But know alſo
+<pb n="51" facs="tcp:151643:42"/>that as Art imitates Nature, ſo do Manual and
+preparatory work bear great Analogy with natural and perfect Operations; but
+that which is effected in the one Mechanically is lively Act<g ref="char:EOLhyphen"/>ed in the other
+naturally, even to the aſtoniſhment of the Artiſt. Therefore once more
+let me aſ<g ref="char:EOLhyphen"/>ſure the Ingenious that <hi>Philo<g ref="char:EOLhyphen"/>ſophers</hi> have ſo
+jointly ſpoken of theſe, which alone covers our Secrets, that a
+diſtinction can<g ref="char:EOLhyphen"/>not be made without profound Meditation and ſegacious Wit;
+which no ſooner is performed but the Maſtery of Theory is acquired; but
+till this be attain<g ref="char:EOLhyphen"/>ed all Practice is uncertain and to be ſhunned; for
+nothing is more eaſie then to miſinterpret and conſequently miſapply
+our
+<pb n="52" facs="tcp:151643:43"/>ſayings. And altho' we do ſay, and that
+truly &amp; properly, <hi>Di<g ref="char:EOLhyphen"/>ſtil, Sublime, Calcine, Putrifie, Separate</hi>
+and <hi>Reconjoyn</hi> the Ele<g ref="char:EOLhyphen"/>ments, <hi>&amp;c.</hi> yet alſo admoniſh
+that our Operations are not vul<g ref="char:EOLhyphen"/>gar, but ſecret and truly Natu<g ref="char:EOLhyphen"/>ral, and
+prrformed in one only Veſſel. Therefore let none per<g ref="char:EOLhyphen"/>ſuade themſelves,
+or be perſua<g ref="char:EOLhyphen"/>ded by Roguiſh Sophiſters, (which abounds) contrary to
+this.</p>
+            <p>And truly as our Operations are ſecret, ſo are our Agents by
+which they are carried on with<g ref="char:EOLhyphen"/>out intermiſſion to their End. For as was
+ſaid by a knowing Maſter,
+<q>
+                  <hi>Our Inſtrument that bringeth the matter into moti<g ref="char:EOLhyphen"/>on in
+the firſt, ſecond and third
+<pb n="53" facs="tcp:151643:43"/>work, is not the fire of a Bath, nor Dung nor
+Aſhes,</hi> &amp;c.</q>
+            </p>
+            <p>And therefore, as there are in our Work three Periods or
+ter<g ref="char:EOLhyphen"/>minations, which are three Cal<g ref="char:EOLhyphen"/>cinations or Fixations; ſo like<g ref="char:EOLhyphen"/>wiſe
+every one of them is ef<g ref="char:EOLhyphen"/>fected by its proper Agent, eve<g ref="char:EOLhyphen"/>ry Termination or
+Fixation terminating the Action of its Agent, having performed its Work, as one
+to kill, another to make alive, <hi>&amp;c.</hi> Alſo theſe works differ in
+their Perfecti<g ref="char:EOLhyphen"/>ons; the firſt producing imper<g ref="char:EOLhyphen"/>fect <hi>Saturn,</hi> black and
+foul; the ſecond perfect <hi>Luna,</hi> white and pure; the third Ripe
+<hi>Sol,</hi> red and permanent.</p>
+            <p>Theſe things being premiſed preſume I may ſpeak ſomewhat
+of our Operations themſelves,
+<pb n="54" facs="tcp:151643:44"/>without yielding an occaſion to any
+fooliſhly to endeavour the ſame by any vulgar means.</p>
+            <p>As many therefore as would attain the maſtery of our
+uni<g ref="char:EOLhyphen"/>verſal <hi>Mercury,</hi> that doth poſſeſs the Virtues of Superiour
+and Inferiour, which is the one on<g ref="char:EOLhyphen"/>ly Subject of our Secrets, let them thus
+proceed.</p>
+            <p>R. The Venerable matter of <hi>Philoſophers,</hi> called by many
+Names, Adapt a fit Veſſel, Furnace and Fire according to its neceſſity;
+then proceed to Calcination, which opens the Pores of the Body, being effect<g ref="char:EOLhyphen"/>ed
+by a moiſt Fire, or Bath, and not only preſerves, but increa<g ref="char:EOLhyphen"/>ſes radical
+or natural Moiſture, by which means the Calx is made unctuous, and fit for
+diſ<g ref="char:EOLhyphen"/>ſolution;
+<pb n="55" facs="tcp:151643:44"/>(hence may be learn<g ref="char:EOLhyphen"/>ed the difference between
+the Operations of the vulgar and ours; for which of them that vulgarly Operate
+makes Calci<g ref="char:EOLhyphen"/>nation with a moiſt Fire, or re<g ref="char:EOLhyphen"/>duceth the Body or Calx into
+Attoms as it were impalpable, abounding with humidity, and therefore eaſily
+flowing. We exclude from hence all Corro<g ref="char:EOLhyphen"/>ſive Waters, and ſtrange
+Humi<g ref="char:EOLhyphen"/>dities, which the ignorant call moiſt Fires, being altogether forraigne
+to our intent) putri<g ref="char:EOLhyphen"/>fie this Calx in a Fire of wet Aſhes for fourty dayes
+and nights, but let the fire be ſuch that nothing ſublime; then Di<g ref="char:EOLhyphen"/>ſtil
+it gently, and according to <hi>Hermes</hi> ſeparate the ſubtile from the
+groſs, the Water from
+<pb n="56" facs="tcp:151643:45"/>the Earth with great diſcreti<g ref="char:EOLhyphen"/>on, and thou
+ſhalt obtain a wa<g ref="char:EOLhyphen"/>ter of great force and value, which we call <hi>Virgins
+Milk</hi> and <hi>Whitening Spirit,</hi> and in the bottom will reſide a
+black earth which is called the Earth that remains; Cohabate this water ſo
+often till Leton is waſhed, and alſo diſſolved and become one
+inſeparable with the water, then is the whole compound turned into Purity
+without any manual Separation, according to the <hi>Philoſopher.</hi>
+               <q>
+                  <hi>He that ſeparates any thing from the ſubject thinking it
+to be neceſ<g ref="char:EOLhyphen"/>ſary knows nothing in Philoſo<g ref="char:EOLhyphen"/>phy: For that which is
+ſuper<g ref="char:EOLhyphen"/>fluous, unclean, ſilthy, and fecu<g ref="char:EOLhyphen"/>lent, in ſum the whole
+ſubſtance of the ſubject is perfected into a
+<pb n="57" facs="tcp:151643:45"/>fixt ſpiritual body; and this the wiſe
+Men never revealed, there<g ref="char:EOLhyphen"/>fore few cometh to the Art, think<g ref="char:EOLhyphen"/>ing that to be
+ſome ſuch ſuperflu<g ref="char:EOLhyphen"/>ous &amp; unclean thing.</hi>
+               </q> Another alſo thus
+Writes,
+<q>
+                  <hi>Waſh away the blackneſs from Leton, not with thy hand,
+but with the ſtone or fire,</hi> &amp;c. <hi>for this ſepara<g ref="char:EOLhyphen"/>tion of the
+pure from the im<g ref="char:EOLhyphen"/>pure is not made with hands but nature her ſelf alone, by
+working it circularly to perfecti<g ref="char:EOLhyphen"/>on brings it to paſs.</hi>
+               </q> This
+Ope<g ref="char:EOLhyphen"/>ration is not only called Sepa<g ref="char:EOLhyphen"/>ration, but alſo Converſion of Elements,
+whereby the Qua<g ref="char:EOLhyphen"/>drangle is made a Circle, and all truly conjoyned, which
+in<g ref="char:EOLhyphen"/>deed is our ſo much concealed Conjunction, and ſubject of Wonders, which
+now hath at<g ref="char:EOLhyphen"/>tained
+<pb n="58" facs="tcp:151643:46"/>the Superior and Inferi<g ref="char:EOLhyphen"/>or Virtues, of which
+ſays <hi>Pon<g ref="char:EOLhyphen"/>tanus Hermes, ſpeak obſcurely.</hi> Hence forward the work
+is more eaſie and delightful, and the Reward bountiful, if accor<g ref="char:EOLhyphen"/>ding to
+<hi>Hermes</hi> it be made com<g ref="char:EOLhyphen"/>pleat, for, <hi>vis ejus eſt integra ſi
+verſa fuerit in terram.</hi> But this Operation of Congealation is alſo
+Natural which is effected without any impoſition of hands: Therefore let all
+be<g ref="char:EOLhyphen"/>ware of any other pretence or Endeavour Contrary to this.</p>
+            <p>Having taken ſufficient care already, and provided againſt me
+underſtanding theſe things groſly, need ſay no more, a word to the
+wiſe being ſufficient: yet for the further inſtruction of a
+<hi>Tyro,</hi> let me admoniſh, that
+<pb n="59" facs="tcp:151643:46"/>they ſeek not to gather Grapes off Thorns,
+nor Figgs from Thiſtles, but employ their whole Study to underſtand theſe
+things Radically. For moſt cer<g ref="char:EOLhyphen"/>tain it is, every Effect has its Cauſe,
+which Cauſe being un<g ref="char:EOLhyphen"/>known, the conſequence will be the means to bring to
+paſs ſuch an effect will be unknown, tho' the Effect ſhould be actual<g ref="char:EOLhyphen"/>ly
+ſeen. For what would any be the wiſer ſhould they ſee the Effect of our
+<hi>Arcanum</hi> upon im<g ref="char:EOLhyphen"/>perfect Metals, and not appre<g ref="char:EOLhyphen"/>hend the Cauſe, they
+were no more able to effect it then be<g ref="char:EOLhyphen"/>fore. Hence the neceſſity of
+underſtanding the Generation of this Secret and powerful Agent in the Radix
+of its Nati<g ref="char:EOLhyphen"/>vity. Having therefore a deſire
+<pb n="60" facs="tcp:151643:47"/>to benefit the Studious (having already
+ſhewed above, that all Generation is, and indeed muſt be effected by an
+Homogeneous Agent and Patient, Seed and Matter, betwixt which a fer<g ref="char:EOLhyphen"/>ment is
+begot through a ſpecial appetite in them, and through this ferment an
+offspring is pro<g ref="char:EOLhyphen"/>duced according to the nature of the Seed, <hi>&amp;c.</hi>)
+ſhall for a concluſion deſcend to the prime principles of our work. Which
+Principles indeed are no other then thoſe that conſtitute, and every way
+compleat a Metaline Body, <hi>viz. Sulphur</hi> and <hi>Argent Vive,</hi> in
+both which is a ſpeci<g ref="char:EOLhyphen"/>al Appetite. For a pure <hi>Mer<g ref="char:EOLhyphen"/>cury</hi> greedily
+coveteth a pure <hi>Sulphur,</hi> and a pure <hi>Sulphur</hi> the
+<hi>Mercury,</hi> for the perfection of
+<pb n="61" facs="tcp:151643:47"/>
+               <hi>Mercury</hi> is <hi>Sulphur,</hi> and the
+Reſt of <hi>Sulphur</hi> is in <hi>Mercury.</hi> But be not ignorant that
+ſuch a <hi>Mer<g ref="char:EOLhyphen"/>cury</hi> is only fit for our work, which is really female
+(void of <hi>Sulphur</hi>) otherways the Appe<g ref="char:EOLhyphen"/>tite will be wanting, which (let
+me perſwade) is the very foun<g ref="char:EOLhyphen"/>dation of our Art. But this ap<g ref="char:EOLhyphen"/>petite is
+wanting in Common <hi>Mercury,</hi> as having a ſufficient proportion of
+<hi>Metaline Sulphur,</hi> tho' unactive, by reaſon of its being pluct from
+its Root, and thereby become dead, and there<g ref="char:EOLhyphen"/>fore not fit for the ſtirring up
+this firſt Ferment, tho when the Ferment is once ſtirred up, it is then
+capable of being ferment<g ref="char:EOLhyphen"/>ed. Alſo our <hi>Sulphur</hi> is a pure active
+<hi>Sulphur</hi> (when a pure <hi>Mercury</hi> is the ſubject of its acti<g ref="char:EOLhyphen"/>on)
+
+<pb n="62" facs="tcp:151643:48"/>Capable to effect what is deſired by
+<hi>Mercury.</hi> And truly where things are thus qualified, their imbraces are
+effectual, and their Union eaſie and ſpeedy. But beware of common
+<hi>Sulphur,</hi> which in no wiſe is fit for our intent, being an Enemy to
+Me<g ref="char:EOLhyphen"/>taline love; capable indeed of vi<g ref="char:EOLhyphen"/>ciating, but not really marrying a Virgin
+<hi>Mercury;</hi> but being am<g ref="char:EOLhyphen"/>bitious and powerful enough to compel, uſurpes
+the Throne, and truly poſſeſſeth the ſame in peace, till the right
+Heir comes, which is ſtronger then he, who diſpoſſeſſeth and
+caſts him out, and takes poſſeſſion himſelf. Let thy firſt work
+therefore in pra<g ref="char:EOLhyphen"/>ctice be to aſſiſt the right Heir, who when he
+poſſeſſeth his
+<pb n="93" facs="tcp:151643:48"/>Throne will recompence thee with the gift of
+<hi>Harmonia.</hi>
+            </p>
+            <p>Hence with eaſe and advan<g ref="char:EOLhyphen"/>tage may be learned, not only how our
+ſubjects are ſaid to be living, but how they become ſo, and alſo what
+good reaſon <hi>Phi<g ref="char:EOLhyphen"/>loſophers</hi> have ſo to call them: not that they
+are matters taken from any Animal (as ſome groſly think much to their own,
+and thoſe they perſwades damage) but are become ſuch through the Fer<g ref="char:EOLhyphen"/>ment
+their appetite have pro<g ref="char:EOLhyphen"/>duced and Created. No other life is found in Metals,
+Mine<g ref="char:EOLhyphen"/>rals and Vegitables; Neither is it poſſible to communicate the Life or
+Ferment of one to the other, by reaſon, as is ſhewed above, of their
+difference in mat<g ref="char:EOLhyphen"/>ter, all true Ferments requiring
+<pb n="64" facs="tcp:151643:49"/>an Homogeneity between Agent and Patient.
+Whoſoever there<g ref="char:EOLhyphen"/>fore ſhall Meditate well on theſe, and ſee their
+<hi>Harmony</hi> with true mens Writings, ſhall certainly gain this,
+<hi>viz.</hi> be pre<g ref="char:EOLhyphen"/>ſerved from the abſurd and chargeable Experiments
+daily practiced by the fooliſh and in<g ref="char:EOLhyphen"/>conſiderate Operators; and al<g ref="char:EOLhyphen"/>ſo
+from being impoſed on by ig<g ref="char:EOLhyphen"/>norant and deceitful men; who propoſe to make
+this our ſo highly prized <hi>Arcanum</hi> from al<g ref="char:EOLhyphen"/>moſt every thing, yea
+ſuch things that have no unity with Metals, yet nothing leſs then a perfect
+Metaline Tincture is to be produced. O deep ignorance! O vain attempts!
+juſtly rewar<g ref="char:EOLhyphen"/>ded by nature with ſcorne, and by her ſons deteſted with
+the
+<pb n="65" facs="tcp:151643:49"/>higheſt Deriſion. Could they but remember
+by whom it was ſaid, <hi>ſuch as men Sow, ſuch usuſt they Reap:</hi>
+and as God will not be mocked, ſo neither will Na<g ref="char:EOLhyphen"/>ture. Wherefore if thy
+inten<g ref="char:EOLhyphen"/>tion be to exalt a <hi>Metal</hi> in vir<g ref="char:EOLhyphen"/>tue beyond what nature hath
+done, thou muſt take a Meta<g ref="char:EOLhyphen"/>line nature, both in male and female, or thy
+endeavour will be vain, and the end Fruitleſs.</p>
+            <p>Seek therefore with all thy In<g ref="char:EOLhyphen"/>duſtry, this ſecret fermental
+Vir<g ref="char:EOLhyphen"/>tue, which is begot between our ſecret active <hi>ſulphur</hi> (which
+is our Fire) &amp; our Air, yea our con<g ref="char:EOLhyphen"/>gealed Air, which is the cover<g ref="char:EOLhyphen"/>ing of
+this ſecret ſpirit, which is better then all the Earth; this is our green
+<hi>Lyon</hi> and <hi>Sal Armo<g ref="char:EOLhyphen"/>niack,</hi> which alone is able to
+<pb n="66" facs="tcp:151643:50"/>warm, purge, and enliven the Water of our
+<hi>Balneum.</hi>
+            </p>
+            <p>How this doth accord with the Operations of Nature may eaſily be
+learned, if we take an Obſervation of her procedure therein. Doth not the
+heaven<g ref="char:EOLhyphen"/>ly influences impregnate the Air with a ſecret Spirit of Life, which
+then is communicated to the Water which brings them to the Earth, by which the
+ſe<g ref="char:EOLhyphen"/>cret Life of Seeds, contai<g ref="char:EOLhyphen"/>ned in the <hi>Matrix</hi> thereof through
+Putrifaction are ſet at Liberty, and by their fermental virtue Coagulates the
+Water into its own Nature multiply<g ref="char:EOLhyphen"/>ing its Species thereby, it being its proper
+matter. This is our whole Work, this our whole <hi>Philoſophy,</hi> which
+furniſheth
+<pb n="67" facs="tcp:151643:50"/>the Poſſeſſor with health and
+Riches.</p>
+            <p>But the Wiſe men make not theſe things (though truly
+ex<g ref="char:EOLhyphen"/>cellent) the bound of their ſearch, but with <hi>Solomon</hi> ſay,
+<hi>how much better it is to get wiſ<g ref="char:EOLhyphen"/>dom then Gold, and underſtand<g ref="char:EOLhyphen"/>ing
+rather then fine ſilver.</hi> For what would it profit in the end if a man
+ſhould obtain the knowledge of <hi>the Vein for Sil<g ref="char:EOLhyphen"/>ver, and know alſo the
+place where they fine Gold; and that out of the Earth cometh bread, and under
+it is turned up, as it were fire; and that the stones of it are as Saphire, and
+that it hath duſt of Gold;</hi> together with all the miſteries thereof,
+and yet not know the place of underſtanding; and remain ig<g ref="char:EOLhyphen"/>norant
+<pb n="68" facs="tcp:151643:51"/>of the Wiſdom of God, ſurely the ſame
+dumbneſs that poſſeſſed <hi>Job,</hi> (after he had gone thus farr)
+would fall upon that Tongue when God ſhall plead; and when the great Cre<g ref="char:EOLhyphen"/>ator
+of every thing, and know<g ref="char:EOLhyphen"/>er of every ſecret Corner ſhall Reaſon?</p>
+            <p>Therefore above all get un<g ref="char:EOLhyphen"/>derſtanding, and wiſdom pur<g ref="char:EOLhyphen"/>ſue
+with all thy power: <hi>But the heart is not capable to poſ<g ref="char:EOLhyphen"/>ſeſs
+wiſdom, nor the breaſt to Treaſure up underſtanding, till the Cup of
+Water colloured with Fire be received from the hand of God.</hi> My heart truly
+is moved with theſe things, and my ſpirit beats in my Breaſt with which I
+magnifie the great Creator; <hi>Yea let all the
+<pb n="69" facs="tcp:151643:51"/>people Praiſe him, and all the Hoſt of
+Heaven magnifie his ho<g ref="char:EOLhyphen"/>ly ſtrength; yea praiſe ye him, Sun, Moon and Stars,
+Fire, Hail and Snow;</hi> for his Mercy endu<g ref="char:EOLhyphen"/>reth for ever, and is over all his
+works; who was, is, and is to come.</p>
+            <p>And now let me take my leave of the ſtudious ſons of
+<hi>Hermes,</hi> having ſhewed my Brotherly love in thus Candidly writing;
+which will be juſtifi<g ref="char:EOLhyphen"/>ed by the knowing, and ſervice<g ref="char:EOLhyphen"/>able to the honeſt
+and ingenu<g ref="char:EOLhyphen"/>ous, but to the fooliſh who will apply our plain Diſcourſe to
+their own whimſies and fooliſh conceptions, unprofitable. If any inquire
+who I am, be thus Anſwered I am too publick to be known, too private to be
+in<g ref="char:EOLhyphen"/>quired
+<pb n="70" facs="tcp:151643:52"/>after and too quick foot<g ref="char:EOLhyphen"/>ed to be purſued:
+Yet alſo ſo near as to behold, with pitty as well as admiration, the
+fooliſh endeavours &amp; conceited know<g ref="char:EOLhyphen"/>ledge of many; for whoſe
+In<g ref="char:EOLhyphen"/>ſtruction and Information I have written this ſhort and can<g ref="char:EOLhyphen"/>did Piece;
+and thus held forth my Brotherly hand of help.</p>
+            <p>As many therefore, as ex<g ref="char:EOLhyphen"/>pect a Reward of their Labour and ſtudy
+in this Science, I ſhall Recommend to the Teachings of the great Maſter,
+and ſtrict Law of nature; without which <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o approaching this
+<hi>Myſtery.</hi>
+            </p>
+            <p>
+               <hi>Farewel.</hi>
+            </p>
+            <closer>
+               <signed>EYRENAEUS PHILOCTETES.</signed> 
+               <dateline>
+                  <hi>Written
+in the Year</hi>
+                  <date> 1691.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:151643:52"/>
+         </div>
+      </body>
+   </text>
+</TEI>
